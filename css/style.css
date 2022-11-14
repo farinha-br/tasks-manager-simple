@@ -1,0 +1,18 @@
+body { 	margin: 0 auto; width: 60%;
+	font-family: 'open sans', arial, verdana;
+	font-size: 14px; line-height: 24px;
+	background: #F7F7F7;
+}
+table { background-color: white; }
+textarea { font-size: 12px; }
+table { border-collapse: collapse; }
+table, th, td { border: 1px solid #ccc; padding: 3px; font-size: 12px; }
+a { text-decoration: none; color: black; }
+.titlemain { font-size: 18px; margin-left: 0px; margin-top: 50px; }
+.hgt { line-height: 10px; }
+.menu { font-size: 13px; }
+.menu a:hover { background-color: #C1C1C1; padding: 5px; }
+.menu a { padding: 5px; }
+.trx { background-color: #B9FFFF; }
+input { padding: 2px; }
+#dodel { display: inline; }
